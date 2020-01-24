@@ -1,2 +1,3 @@
 # ros_summation
-calculate summation using kahan summation algolithm
+### 概要
+カハンの総和アルゴリズムにより，購読したトピックの値の総和を計算します．
