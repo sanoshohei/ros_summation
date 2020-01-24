@@ -1,2 +1,2 @@
-# raspi_ros_led
-LED blink ROS package with raspbarry pi
+# ros_summation
+calculate summation using kahan summation algolithm
