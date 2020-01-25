@@ -24,7 +24,7 @@ def cb(message):
 
 
 if __name__ == '__main__':
-    rospy.init_node('power')
+    rospy.init_node('sum')
     sub = rospy.Subscriber('count_up', Float64, cb)
     rate = rospy.Rate(10)
 
